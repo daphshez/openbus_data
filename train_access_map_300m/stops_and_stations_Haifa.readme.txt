@@ -1,0 +1,9 @@
+Results of filter_station_access_results
+input_file=train_access_map_300m\stops_and_stations.txt
+max_time_difference_from_station=30
+stations_to_include={37376, 37386, 37378, 37388, 37380}
+stations_to_exclude=None
+only_nearest_station=True
+min_weekday_trips=25
+Number of original records=18194
+Number of records after filter=739
