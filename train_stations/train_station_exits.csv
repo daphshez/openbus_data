@@ -5,7 +5,7 @@ stop_name,stop_code,latitude,longitude,Type,Icon,Comments
 באר יעקב,17066,31.932975,34.828765,Entrance,large_green,
 באר שבע מרכז,17084,31.243369,34.798062,Entrance,large_green,
 באר שבע-צפון,17082,31.261923,34.809011,Entrance,large_green,
-בית יהושע,17032,32.262346,34.860112,Entrance,large_green,
+בית יהושע,17032,32.2626,34.86004,Entrance,large_green,west exit
 בית שמש,17074,31.75764,34.98939,Entrance,large_green,
 בני ברק,17040,32.102938,34.830131,Entrance,large_green,
 בנימינה,17024,32.513737,34.949309,Entrance,large_green,
@@ -68,3 +68,7 @@ stop_name,stop_code,latitude,longitude,Type,Icon,Comments
 תל אביב מרכז,17038,32.08377,34.79894,Entrance,large_green,
 השלום,17046,32.074,34.79253,Entrance,large_green,Exit to shopping centre
 חוף הכרמל,17020,32.79338,34.95712,Entrance,large_green,West entrance
+בת ים יוספטל,17052,32.015168,34.76213,Exit,large_blue,Exit only on north side of Yoseftal Boulevard
+בת ים קוממיות,17054,32.001461,34.759456,Exit,large_blue,Exit only on north side of Moshe Dayan
+בית יהושע,17032,32.26252,34.86037,Entrance,large_green,East exit
+קרית חיים,17004,32.8247,35.0639,Exit,large_blue,"Exit only, towards west (location imprecise)"
