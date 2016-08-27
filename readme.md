@@ -1,5 +1,7 @@
 Data created for\using the [Israel Open Bus](<https://github.com/hasadna/open-bus>) project.
 
+Source 
+
 ## gtfs_2016_05_25
 Derived data for the 2016-05-25 gtfs file. 
 
@@ -7,6 +9,9 @@ The original GTFS file (israel-public-transportation.zip) can be found [here](<h
 
 * route_stories.txt and trip_to_stories.txt: route stories, a compressed alternative to stop_times. See [```gtfs.parser.route_story```](<https://github.com/hasadna/open-bus/blob/master/gtfs/parser/route_stories.py>)
 * stop_station_distance.txt: nearest train station to each bus stop, and the distance between them. Generated using ```gtfs.kavrazif.kavrazif.generate_station_distance```
+
+## gtfs_2016_08_24
+Same as gtfs_2016_05_25, different date.
 
 
 ## train_access_map_300m
